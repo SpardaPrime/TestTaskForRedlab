@@ -1,6 +1,6 @@
 # Test task for Redlab
 ![](https://i.ibb.co/Cm8S48f/chrome-capture-1.gif)
-## You can use this aplication [here!](https://spardaprime.github.io/TestForRedlab/) 
+## You can use this aplication [here!](https://spardaprime.github.io/TestTaskForRedlab/) 
 In this project I used:
 * native JavaScript  ( es6 )
 * Sass
